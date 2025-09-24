@@ -1,0 +1,238 @@
+{
+  "hero": {
+    "slides": [
+      {
+        "id": 1,
+        "image": {
+          "desktop": "/hero/slide1.jpg",
+          "mobile": "/hero/slide1.jpg"
+        },
+        "title": "Astronauta",
+        "subtitle": "",
+        "descricao": ""
+      },
+      {
+        "id": 2,
+        "image": {
+          "desktop": "/hero/slide2.jpg",
+          "mobile": "/hero/slide2.jpg"
+        },
+        "title": "Batizado",
+        "subtitle": "",
+        "descricao": ""
+      },
+      {
+        "id": 3,
+        "image": {
+          "desktop": "/hero/slide3.jpg",
+          "mobile": "/hero/slide3.jpg"
+        },
+        "title": "A Bela e a Fera",
+        "subtitle": "",
+        "descricao": ""
+      },
+      {
+        "id": 4,
+        "image": {
+          "desktop": "/hero/slide4.jpg",
+          "mobile": "/hero/slide4.jpg"
+        },
+        "title": "Fazendinha",
+        "subtitle": "",
+        "descricao": ""
+      },
+      {
+        "id": 5,
+        "image": {
+          "desktop": "/hero/slide5.jpg",
+          "mobile": "/hero/slide5.jpg"
+        },
+        "title": "Gratidão",
+        "subtitle": "",
+        "descricao": ""
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Hair Style",
+      "descricao": "Cortes, escova, penteados e tratamentos capilares com técnicas modernas",
+      "image": "/services/hair-style.jpg",
+      "features": [
+        "Cortes personalizados",
+        "Coloração profissional",
+        "Penteados para eventos",
+        "Tratamentos de hidratação"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Make Up",
+      "descricao": "Maquiagem profissional para todos os tipos de eventos e ocasiões",
+      "image": "/services/makeup.jpg",
+      "features": [
+        "Maquiagem para noivas",
+        "Make para eventos",
+        "Maquiagem social",
+        "Automaquiagem"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Massagem corporal",
+      "descricao": "Cuidados especiais para pele e cabelos com produtos premium",
+      "image": "/services/massagem.jpg",
+      "features": [
+        "Limpeza de pele",
+        "Hidratação facial",
+        "Massagem relaxante",
+        "Cuidados anti-aging"
+      ]
+    }
+  ],
+  "decoracoes": [
+    {
+      "id": 1,
+      "name": "Eudora Glam",
+      "descricao": "",
+      "image": "/decoracoes/slide1.jpg",
+      "categoria": "Base"
+    },
+    {
+      "id": 2,
+      "name": "Paleta de Sombras Luxo",
+      "descricao": "",
+      "image": "/decoracoes/slide2.jpg",
+      "categoria": "Sombras"
+    },
+    {
+      "id": 3,
+      "name": "Batom Matte Exclusivo",
+      "descricao": "",
+      "image": "/decoracoes/slide3.jpg",
+      "categoria": "Batons"
+    },
+    {
+      "id": 4,
+      "name": "Shampoo Siàge",
+      "descricao": "",
+      "image": "/decoracoes/slide4.jpg",
+      "categoria": "Hair Care"
+    },
+    {
+      "id": 5,
+      "name": "Cuidados com a pele",
+      "descricao": "",
+      "image": "/decoracoes/slide5.jpg",
+      "categoria": "Skincare"
+    },
+    {
+      "id": 6,
+      "name": "Niina Secrets Celebrate",
+      "descricao": "",
+      "image": "/decoracoes/slide6.jpg",
+      "categoria": "Acessórios"
+    }
+  ],
+  "locacoes": [
+    {
+      "id": 1,
+      "name": "Locação de Decoração",
+      "descricao": "",
+      "image": "/locacoes/slide1.jpg",
+      "categoria": "Decoração"
+    },
+    {
+      "id": 2,
+      "name": "Locação de Make Up",
+      "descricao": "",
+      "image": "/locacoes/slide2.jpg",
+      "categoria": "Make Up"
+    },
+    {
+      "id": 3,
+      "name": "Locação de Massagem",
+      "descricao": "",
+      "image": "/locacoes/slide3.jpg",
+      "categoria": "Massagem"
+    },
+    {
+      "id": 4,
+      "name": "Locação de Hair Style",
+      "descricao": "",
+      "image": "/locacoes/slide4.jpg",
+      "categoria": "Hair Style"
+    },
+    {
+      "id": 5,
+      "name": "Locação de Skincare",
+      "descricao": "",
+      "image": "/locacoes/slide5.jpg",
+      "categoria": "Skincare"
+    },
+    {
+      "id": 6,
+      "name": "Locação de Acessórios",
+      "descricao": "",
+      "image": "/locacoes/slide6.jpg",
+      "categoria": "Acessórios"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Transformação Completa - Noiva",
+      "url": "/videos/thumb1.mp4",
+      "descricao": "Acompanhe uma transformação completa para o dia do casamento"
+    },
+    {
+      "id": 2,
+      "title": "Make Natural para o Dia a Dia",
+      "url": "/videos/thumb2.mp4",
+      "descricao": "Tutorial de maquiagem natural e prática"
+    },
+    {
+      "id": 3,
+      "title": "Penteado Elegante - Passo a Passo",
+      "url": "/videos/thumb3.mp4",
+      "descricao": "Como criar um penteado sofisticado para eventos"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/mtsvivianmakeup",
+      "icon": "instagram",
+      "followers": "15.2K"
+    }
+  ],
+  "galeriaAluguel": [
+    "/aluguel/imagem1.jpg",
+    "/aluguel/imagem2.jpg",
+    "/aluguel/imagem3.jpg",
+    "/aluguel/imagem4.jpg",
+    "/aluguel/imagem5.jpg"
+  ],
+  "contacts": {
+    "whatsapp": {
+      "number": "+5591982459071",
+      "message": "Olá! Gostaria de agendar um horário no Joy Pegue & Monte."
+    },
+    "phone": {
+      "number": "+5591982459071",
+      "display": "(91) 982459071"
+    },
+    "address": {
+      "street": "Rua Barão de Igarapé Miri, 977",
+      "neighborhood": "Guamá",
+      "city": "Belém",
+      "state": "PA",
+      "zipcode": "66075-748"
+    },
+    "cultos": {
+      "quarta": "19:30",
+      "domingo": "09:00 e as 19:30"
+    }
+  }
+}
